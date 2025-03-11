@@ -3,6 +3,8 @@
   <PropertyGroup>
     <TargetFrameworks>net47</TargetFrameworks>
     <LangVersion>latest</LangVersion>
+	<EnableMSTestRunner>true</EnableMSTestRunner>
+	<TestingPlatformDotnetTestSupport>true</TestingPlatformDotnetTestSupport>
   </PropertyGroup>
 
   <ItemGroup>
