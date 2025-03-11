@@ -5,6 +5,7 @@
     <LangVersion>latest</LangVersion>
 	<EnableMSTestRunner>true</EnableMSTestRunner>
 	<TestingPlatformDotnetTestSupport>true</TestingPlatformDotnetTestSupport>
+	<OutputType>Exe</OutputType>
   </PropertyGroup>
 
   <ItemGroup>
