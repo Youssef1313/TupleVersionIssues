@@ -20,4 +20,4 @@ jobs:
         with:
           name: my-artifact
           path: ./logs
-        condition: always()
+        if: always()
